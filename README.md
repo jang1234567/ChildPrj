@@ -29,6 +29,30 @@
 - 팀원 : [jang_9120](https://github.com/jang1234567)
 - 팀원 : [cjkywe07](https://github.com/cjkywe07)
 
+ ## 🔗 구성도/흐름도
+
+<table>
+  <tr>
+    <td align="center">
+      <strong><화면구성도></strong><br>
+      <img width="400" src="https://github.com/user-attachments/assets/98a697af-c789-4d6c-9e90-1c4956dc770a">
+    </td>
+    <td align="center">
+      <strong><서비스 흐름도></strong><br>
+      <img width="400" src="https://github.com/user-attachments/assets/38a1ea4b-4721-4161-95cb-36ad6f22886d">
+    </td>
+  </tr>
+</table>
+
+## 💡ERD 구성
+
+<details open>
+<summary>ERD</summary>
+  
+<img width="800" src='https://github.com/user-attachments/assets/5e9f7910-44d7-41f3-97f5-d05b8aa24f61'>
+
+</details>
+
 ## 💻 기능 및 화면 소개
 ### 1. &nbsp;홈
   <div>
